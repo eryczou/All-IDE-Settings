@@ -1,0 +1,10 @@
+// Overwrite settings by placing them into your settings file.
+// See http://go.microsoft.com/fwlink/?LinkId=808995 for the most commonly used settings.
+{
+    "editor.lineHeight": 33,
+    "editor.fontSize": 21,
+    "editor.fontFamily": "Source Code Pro",
+    "extensions.autoUpdate":true,
+    "terminal.integrated.fontSize": 20,
+    "editor.wordWrap": true
+}
