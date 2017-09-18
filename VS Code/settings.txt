@@ -6,5 +6,6 @@
     "editor.fontFamily": "Source Code Pro",
     "extensions.autoUpdate":true,
     "terminal.integrated.fontSize": 20,
-    "editor.wordWrap": true
+    "editor.wordWrap": true,
+    "workbench.iconTheme": "material-icon-theme"
 }
